@@ -1,4 +1,4 @@
-public class XYZ{
+public class XYZ0{
   
   
 }
