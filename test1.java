@@ -1,4 +1,4 @@
-public class XYZ00{
+public class Denemex_X{
   
   
   
